@@ -136,8 +136,8 @@ nav.sticky .menu-btn{
   margin-left: -3px;
     max-width: 100%; 
 }
-@media (max-width: 600px) {
-      font-size: 60px;  /* Adjust font size for smaller screens */
+@media (max-width: 500px) {
+      font-size: 50px;  /* Adjust font size for smaller screens */
     }
 .home .text-three{
   font-size: 40px;
