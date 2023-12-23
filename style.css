@@ -136,7 +136,6 @@ nav.sticky .menu-btn{
   margin-left: -3px;
   white-space: nowrap;    /* Prevent line breaks */
     overflow: hidden;       /* Hide overflowing content */
-    text-overflow: ellipsis; /* Display ellipsis (...) for overflow */
     max-width: 100%; 
 }
 @media (max-width: 600px) {
