@@ -139,6 +139,9 @@ nav.sticky .menu-btn{
     text-overflow: ellipsis; /* Display ellipsis (...) for overflow */
     max-width: 100%; 
 }
+@media (max-width: 600px) {
+      font-size: 60px;  /* Adjust font size for smaller screens */
+    }
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
