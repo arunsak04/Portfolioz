@@ -137,7 +137,8 @@ nav.sticky .menu-btn{
     max-width: 100%; 
   white-space: nowrap;
      overflow: hidden;
-  @media (max-width: 700px) {
+  text-overflow:ellipses;
+  @media (max-width: 600px) {
       font-size: 50px;  /* Adjust font size for smaller screens */
     }
 }
