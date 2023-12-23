@@ -134,6 +134,10 @@ nav.sticky .menu-btn{
   font-size: 75px;
   font-weight: 600;
   margin-left: -3px;
+  white-space: nowrap;    /* Prevent line breaks */
+    overflow: hidden;       /* Hide overflowing content */
+    text-overflow: ellipsis; /* Display ellipsis (...) for overflow */
+    max-width: 100%; 
 }
 .home .text-three{
   font-size: 40px;
