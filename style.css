@@ -137,10 +137,11 @@ nav.sticky .menu-btn{
     max-width: 100%; 
   white-space: nowrap;
      overflow: hidden;
-}
-@media (max-width: 700px) {
+  @media (max-width: 700px) {
       font-size: 50px;  /* Adjust font size for smaller screens */
     }
+}
+
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
