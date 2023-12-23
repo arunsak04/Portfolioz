@@ -509,10 +509,13 @@ footer .text span a:hover{
 
 @media (max-width: 500px){
   .home .text-two{
-    font-size: 40px;
+    font-size: 45px;
   }
   .home .text-three{
     font-size: 30px;
+  }
+  .home .text-four{
+    font-size: 24px;
   }
   .skills-details .boxes .per{
     font-size: 50px;
